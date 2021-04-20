@@ -1,0 +1,3 @@
+.ifn : If not expr
+	ANY   →   if not $expr$:\
+	$END$
